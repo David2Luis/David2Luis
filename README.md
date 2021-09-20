@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **davidluis2020@gmail.com**
 
-- ⚡ Fun fact **i can move my belly**
+- ⚡ Fun fact **i can move my belly 💃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
