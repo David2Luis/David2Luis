@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/david2luis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="david2luis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david luís" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david luís" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-lu%c3%ads-338b6416a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-lu%c3%ads-338b6416a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david2luis&show_icons=true&locale=en" alt="david2luis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david2luis&" alt="david2luis" /></p>
