@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Luís</h1>
 <h3 align="center">I recently finished my full-stack course on Le Wagon and now I want to keep learning and developing my skills.</h3>
 
-- 🔭 I’m currently working on [Climbing portofolio](https://github.com/David2Luis/rails-clmibing-portofolio)
+<!-- - 🔭 I’m currently working on [Climbing portofolio](https://github.com/David2Luis/rails-clmibing-portofolio) -->
 
 - 🌱 I’m currently learning **React**
 
